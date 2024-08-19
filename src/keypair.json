@@ -1,0 +1,4 @@
+{
+  "private_key": [0, 1, 2, ..., 31],
+  "public_key": "YourPublicKeyHere"
+}
