@@ -26,9 +26,9 @@ struct Args {
 
     #[arg(
         long,
-        value_name = "KEYPAIR_PATH",
+        value_name = "keypair.json",
         help = "Filepath to keypair to use",
-        default_value = "",
+        default_value = "keypair.json",
     )]
     keypair: String,
 
